@@ -4,6 +4,7 @@ Implement using:
 1. Brute Force
 2. Divide-and-Conquer
 
+## Usage
 Run the program with the following command format:
 
 	python nearest_neighbor.py -<dc|bf|both> <input_file>
